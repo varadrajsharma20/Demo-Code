@@ -1,2 +1,3 @@
 # Demo-Code
-It contains basic of HTML, CSS and JS
+It contains basic of HTML, CSS and JS.
+All basics are covered here.
